@@ -4,7 +4,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=dark&show_icons=true&hide_border=false&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=github_dark&show_icons=true&hide_border=false&count_private=true"
     />
     <img
       alt="ztrahmet's GitHub Stats"
@@ -17,7 +17,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=dark&show_icons=true&hide_border=false&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=github_dark&show_icons=true&hide_border=false&layout=compact"
     />
     <img
       alt="ztrahmet's Top Languages"
