@@ -4,11 +4,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=github_dark&show_icons=true&hide_border=false&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=github_dark&show_icons=true&count_private=true"
     />
     <img
       alt="ztrahmet's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=default&show_icons=true&hide_border=false&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=ztrahmet&theme=default&show_icons=true&count_private=true"
       width="420"
     />
   </picture>
@@ -17,11 +17,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=github_dark&show_icons=true&hide_border=false&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=github_dark&show_icons=true&layout=compact"
     />
     <img
       alt="ztrahmet's Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=default&show_icons=true&hide_border=false&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztrahmet&theme=default&show_icons=true&layout=compact"
       width="320"
     />
   </picture>
